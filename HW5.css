@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+
+#calculator {
+    margin: 2rem auto;
+    width: 25rem;
+    background: black;
+    border: 1px solid;
+    padding: 1rem;
+}
+
+#calculator input {
+    font: inherit;
+    font-size: 3rem;
+    width: 23rem;
+    padding: 0.15rem;
+    margin: auto;
+    display: block;
+    color: black;
+    text-align: right;
+  }
+
+#calculator button {
+    width: 6rem;
+    font: inherit;
+    background: black;
+    color: white;
+    padding: 1rem;
+}
+
